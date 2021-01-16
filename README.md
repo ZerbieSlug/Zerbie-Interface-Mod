@@ -30,3 +30,19 @@ Here is the current list of color choices that the player can choose from. Note 
 > - Black
 > - White (Albino) : changes blue buttons and certain yellow highlights into red.
 > - Demo : Based off the interface for the Spore trial, changes yellow buttons/highlights into green
+
+### Interface Preview
+
+When installing the mod, you will be prompted with a little installer that lets you choose the color/style of interface you want. You will be given a preview on what the color/style changes, like the following images below :
+
+> "White (Albino)"
+
+![Albino Image](https://i.imgur.com/eHLMalr.png)
+
+> "Demo"
+
+![Demo Image](https://i.imgur.com/dXymZLm.png)
+
+> "Purple"
+
+![Purple Image](https://i.imgur.com/B5URVTA.png)

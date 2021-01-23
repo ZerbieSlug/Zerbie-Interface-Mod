@@ -3,7 +3,7 @@
 ## Download
 > **Read below before download. Also, this mod requires SPOREMODAPI to be installed *properly***
 
-Download Link : https://drive.google.com/file/d/1xInVT-W029n_LfbRe1bcBILGkynY5Jyn/view?usp=sharing
+Current Release Download : https://github.com/ZerbieSlug/Zerbie-Interface-Mod/releases/tag/v3.1
 
 ### Description
 
